@@ -1,1 +1,2 @@
 # Clocks-Py
+Clock-py is simple program to give a terminal clock. This should be better then a normal clock on storage and speed. Many updates will be add to help the productivity. Any suggestions is highly ask of you to help the progress of the program. This is full open source and is free of use. But credit is hightly ask of.
